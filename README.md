@@ -1,2 +1,3 @@
 IT IS A GAME <B>
 IN  WICH WE HAVE TO GUESS THE NUMBER , AND MATCH WHICH COMPUTER'S NUMBER
+![VAIBAHVZARD](https://github.com/VaibhavZard/GuessTheNumber-/assets/142160451/c9e8f5b2-1abd-46fc-8462-32febe07f4ac)
